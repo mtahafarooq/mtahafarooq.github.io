@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
+title: About - Muhamamd Taha Farooq 
 subtitle: Aspiring Computer Scientist
 ---
 
-I am a final year computer science student at COMSATS Institue of Information Technology, Lahore. I am passionate about web development.I spend major part of my day,practically everday, experimenting with HTML, CSS , JavaScript; dabbling with Angular,Spring MVC and SQL Server; and inhaling a wide variety of useful information through different sites i-e [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction. I do my best to stay on top of changes in the state of the art so that I can meet challenges with tools well suited to the job at hand. I've developed a great interest in this field and I want to become a serious practitioner of computer science.
+I am a final year Computer Science student at COMSATS University Islamabad, Lahore Campus. I am passionate about anything related to web. I spend most of time dabbling with Angular, SpringMVC and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. I've developed a great interest in this field and I want to become an expert web developer in near future.
 
-In my free time, I love to brush up my problem solving skills and solve programming problem on [hackerrank](https://www.hackerrank.com). I also love to go outside for running but if the weather allows me. 
+In my free time, I love to brush up my problem solving skills, by solving programming problems on [hackerrank](https://www.hackerrank.com). I love to go out for a run but only if weather is in my favor. 
 
-### my history
+### My History
 
 
