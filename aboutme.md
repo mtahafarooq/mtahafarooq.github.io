@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - Muhamamd Taha Farooq 
+title: About me 
 subtitle: Aspiring Computer Scientist
 ---
 
