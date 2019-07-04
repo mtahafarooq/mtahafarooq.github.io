@@ -9,6 +9,7 @@ In my free time, I love to brush up my problem solving skills, by solving progra
 
 ### Work History
 
+
 ### Software Engineer
 #### SemiCode (April 2019 - Present)
 
