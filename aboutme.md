@@ -7,7 +7,7 @@ I am a Computer Science graduate from COMSATS University Islamabad, Lahore Campu
 
 In my free time, I love to brush up my problem solving skills, by solving programming problems on [hackerrank](https://www.hackerrank.com). I love to go out for a run but only if weather is in my favor. 
 
-### Work History
+# Work History
 
 
 ### Software Engineer
