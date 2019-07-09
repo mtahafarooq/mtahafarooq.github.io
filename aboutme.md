@@ -17,6 +17,8 @@ Maintainer / Contributor of a CMA Frontend built with Angular 7. The
 application enabled business owner to manage application content that
 was consumed by mobile application through API’s. Contributed several
 modules relating to user & products management.
+<br>
+
 
 ### Software Engineer
 #### Tradeup (August 2018 - April 2019)
@@ -36,6 +38,7 @@ feature rich and focuses on UI/UX & usability.
 #### Leveraged Knowledge
 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
+<br>
 
 ### Software Engineer (Intern)
 #### Emerssive Solutions (December 2017 - August 2018)
