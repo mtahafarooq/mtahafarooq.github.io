@@ -49,7 +49,7 @@ shared shipments across the country if the routes of both businesses
 match.
 
 #### Contributions
-<br>
+
 * Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
 * Familiarize myself with methods that allowed smooth and natural interaction with the system.
