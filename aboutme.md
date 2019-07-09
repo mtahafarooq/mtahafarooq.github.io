@@ -58,5 +58,6 @@ match.
 #### Leveraged Knowledge:
 
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
+<br>
 
 
