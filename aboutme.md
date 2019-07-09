@@ -17,8 +17,6 @@ Maintainer / Contributor of a CMA Frontend built with Angular 7. The
 application enabled business owner to manage application content that
 was consumed by mobile application through API’s. Contributed several
 modules relating to user & products management.
-<br>
-
 
 ### Software Engineer
 #### Tradeup (August 2018 - April 2019)
@@ -28,17 +26,15 @@ Angular 7. The application helps SMBs to manage their business dealings
 in an efficient and hassle-free way by providing an interface that’s
 feature rich and focuses on UI/UX & usability.
 
-#### Contributions
+#### Contributions  
 
 * Revamped overall UI of project and enhanced the UI/UX to be frictionless.
 * Rewrote frontend for already done feature module namely ‘Warehouse’.
 * Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.
 * Implemented Lazy-Loading technique to give performance boost to the application.
-<br>
 
 #### Leveraged Knowledge
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
-<br>
 
 ### Software Engineer (Intern)
 #### Emerssive Solutions (December 2017 - August 2018)
@@ -46,9 +42,9 @@ Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp
 Maintainer of a logistics application called Vislog developed in Drupal 7.
 The application helped businesses to collaborate with each other to send
 shared shipments across the country if the routes of both businesses
-match.
+match.  
 
-#### Contributions
+#### Contributions  
 
 * Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
