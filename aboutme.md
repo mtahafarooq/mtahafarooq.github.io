@@ -49,8 +49,7 @@ match.
 * Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
 * Familiarize myself with methods that allowed smooth and natural interaction with the system.
-* Contributed new navigation features using Google Maps API.
-<br>
+* Contributed new navigation features using Google Maps API.  
 
 #### Leveraged Knowledge:
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
