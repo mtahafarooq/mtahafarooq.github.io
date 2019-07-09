@@ -30,13 +30,13 @@ feature rich and focuses on UI/UX & usability.
 
 #### Contributions
 
-* Revamped overall UI of project and enhanced the UI/UX to be frictionless.<br/>
-* Rewrote frontend for already done feature module namely ‘Warehouse’.<br/>
-* Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.<br/>
-* Implemented Lazy-Loading technique to give performance boost to the application.<br/>
+* Revamped overall UI of project and enhanced the UI/UX to be frictionless.
+* Rewrote frontend for already done feature module namely ‘Warehouse’.
+* Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.
+* Implemented Lazy-Loading technique to give performance boost to the application.
+<br>
 
 #### Leveraged Knowledge
-
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 <br>
 
@@ -49,14 +49,14 @@ shared shipments across the country if the routes of both businesses
 match.
 
 #### Contributions
-
+<br>
 * Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
 * Familiarize myself with methods that allowed smooth and natural interaction with the system.
 * Contributed new navigation features using Google Maps API.
+<br>
 
 #### Leveraged Knowledge:
-
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
 <br>
 
