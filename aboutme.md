@@ -26,15 +26,15 @@ Angular 7. The application helps SMBs to manage their business dealings
 in an efficient and hassle-free way by providing an interface that’s
 feature rich and focuses on UI/UX & usability.
 
-### Contributions
+#### Contributions
 
-1)Revamped overall UI of project and enhanced the UI/UX to be frictionless.<br/>
-2)Rewrote frontend for already done feature module namely ‘Warehouse’.<br/>
-3)Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.<br/>
-4)Implemented Lazy-Loading technique to give performance boost to the application.<br/>
+* Revamped overall UI of project and enhanced the UI/UX to be frictionless.<br/>
+* Rewrote frontend for already done feature module namely ‘Warehouse’.<br/>
+* Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.<br/>
+* Implemented Lazy-Loading technique to give performance boost to the application.<br/>
 
-### Leveraged Knowledge:
-<br/>
+#### Leveraged Knowledge:
+
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
 ### Software Engineer (Intern)
