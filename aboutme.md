@@ -33,14 +33,27 @@ feature rich and focuses on UI/UX & usability.
 * Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.<br/>
 * Implemented Lazy-Loading technique to give performance boost to the application.<br/>
 
-#### Leveraged Knowledge:
+#### Leveraged Knowledge
 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
 ### Software Engineer (Intern)
-#### Tradeup (December 2017 - August 2018)
+#### Emerssive Solutions (December 2017 - August 2018)
 
 Maintainer of a logistics application called Vislog developed in Drupal 7.
 The application helped businesses to collaborate with each other to send
 shared shipments across the country if the routes of both businesses
 match.
+
+#### Contributions
+
+* Fixed UI/UX related issues.
+* Done extensive testing, identify new issues and fixed them.
+* Familiarize myself with methods that allowed smooth and natural interaction with the system.
+* Contributed new navigation features using Google Maps API.
+
+#### Leveraged Knowledge:
+
+PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
+
+
