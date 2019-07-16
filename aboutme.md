@@ -7,16 +7,7 @@ I am a Computer Science graduate from COMSATS University Islamabad, Lahore Campu
 
 In my free time, I love to brush up my problem solving skills, by solving programming problems on [hackerrank](https://www.hackerrank.com). I love to go out for a run but only if weather is in my favor.
 
-# Work History
-
-
-### Software Engineer
-#### SemiCode (April 2019 - Present)
-
-Maintainer / Contributor of a CMA Frontend built with Angular 7. The
-application enabled business owner to manage application content that
-was consumed by mobile application through API’s. Contributed several
-modules relating to user & products management.
+# Experience
 
 ### Software Engineer
 #### Tradeup (August 2018 - April 2019)
@@ -53,6 +44,24 @@ match.
 
 #### Tools & Technologies 
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
-<br>
+<br>  
+  
+  # Projects
+  ### Paints CMA
+  #### APRIL 2019 - June 2019
+  
+Developed a CMA for a Paints Enterprise. The application enabled
+business owner to manage application content that was consumed by
+mobile application through API’s. Contributed several modules relating
+to user & products management.  
+
+  ### CloudCV - EvalAI
+  #### MAY 2019
+  
+I conducted thorough testing & suggested possible improvements, made
+bug fixes in two two services for Cloud CV’s EvalAI project which is an
+open source web application that helps researchers, students and
+data-scientists to create, collaborate and participate in various AI
+challenges organized round the globe.
 
 
