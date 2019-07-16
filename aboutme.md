@@ -46,17 +46,17 @@ match.
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
 <br>  
   
-  # Projects
-  ### Paints CMA
-  #### April 2019 - June 2019
+# Projects
+### Paints CMA
+#### April 2019 - June 2019
   
 Developed a CMA for a Paints Enterprise. The application enabled
 business owner to manage application content that was consumed by
 mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
-  ### CloudCV - EvalAI
-  #### May 2019
+### CloudCV - EvalAI
+#### May 2019
   
 I conducted thorough testing & suggested possible improvements, made
 bug fixes in two two services for Cloud CV’s EvalAI project which is an
