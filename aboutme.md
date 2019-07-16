@@ -33,7 +33,7 @@ feature rich and focuses on UI/UX & usability.
 * Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.
 * Implemented Lazy-Loading technique to give performance boost to the application.
 
-#### Leveraged Knowledge
+#### Tools & Technologies 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
 ### Software Engineer (Intern)
@@ -51,7 +51,7 @@ match.
 * Familiarize myself with methods that allowed smooth and natural interaction with the system.
 * Contributed new navigation features using Google Maps API.  
 
-#### Leveraged Knowledge:
+#### Tools & Technologies 
 PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
 <br>
 
