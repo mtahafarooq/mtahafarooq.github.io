@@ -3,11 +3,26 @@ layout: page
 title: About me 
 ---
 
-I am a Computer Science graduate from COMSATS University Islamabad, Lahore Campus. I am passionate about anything related to web. I spend most of time dabbling with Angular, SpringMVC and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. I've developed a great interest in this field and my objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
+A Versatile frontend developer who loves to combine the art of design with the art of programming and having  willingness to learn and  master backend development. I enjoy technology, not a specific stack or language.I spend most of time dabbling with React, React Native, Redux and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. I've developed a great interest in this field and my objective is simply to be the best developer that I can be and to contribute to the technology industry all that I know and can do.
 
 In my free time, I love to brush up my problem solving skills, by solving programming problems on [hackerrank](https://www.hackerrank.com). I love to go out for a run but only if weather is in my favor.
 
 # Experience
+
+### Software Engineer
+#### EBRYX (August 2019 - PRESENT)
+
+I spend time developing a cross-platform Service Provider mobile application which allows beauticians from different areas to provide services to their clients. It allows the end user to make appointments with the service provider with ease.
+
+#### Contributions  
+
+* Contributed to the design of application’s core architecture, and modules such as authentication, profile, scheduling and payments.
+* Integrated payment gateway namely Telr to accept payments through credit/debit cards.
+* Collaborate with other team members to implement new feature development.
+* Following the best development practices in a way of common coding standards to maintain code quality and components reusability.
+
+#### Tools & Technologies 
+React | React Native |Redux | AWS| NodeJS | Sequelize
 
 ### Software Engineer
 #### Tradeup (August 2018 - April 2019)
