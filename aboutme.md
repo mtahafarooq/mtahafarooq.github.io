@@ -3,7 +3,7 @@ layout: page
 title: About me 
 ---
 
-A Versatile frontend developer who loves to combine the art of design with the art of programming and having  willingness to learn and  master backend development. I enjoy technology, not a specific stack or language.I spend most of time dabbling with React, React Native, Redux and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. I've developed a great interest in this field and my objective is simply to be the best developer that I can be and to contribute to the technology industry all that I know and can do.
+A versatile frontend developer who loves to combine the art of design with the art of programming and having  willingness to learn and  master backend development. I enjoy technology, not a specific stack or language. I spend most of time dabbling with React, React Native, Redux and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. I've developed a great interest in this field and my objective is simply to be the best developer that I can be and to contribute to the technology industry all that I know and can do.
 
 In my free time, I love to brush up my problem solving skills, by solving programming problems on [hackerrank](https://www.hackerrank.com). I love to go out for a run but only if weather is in my favor.
 
@@ -14,7 +14,7 @@ In my free time, I love to brush up my problem solving skills, by solving progra
 
 I spend time developing a cross-platform Service Provider mobile application which allows beauticians from different areas to provide services to their clients. It allows the end user to make appointments with the service provider with ease.
 
-#### Contributions  
+#### Achievements/Tasks  
 
 * Contributed to the design of application’s core architecture, and modules such as authentication, profile, scheduling and payments.
 * Integrated payment gateway namely Telr to accept payments through credit/debit cards.
@@ -32,7 +32,7 @@ Angular 7. The application helps SMBs to manage their business dealings
 in an efficient and hassle-free way by providing an interface that’s
 feature rich and focuses on UI/UX & usability.
 
-#### Contributions  
+#### Achievements/Tasks
 
 * Revamped overall UI of project and enhanced the UI/UX to be frictionless.
 * Rewrote frontend for already done feature module namely ‘Warehouse’.
@@ -50,7 +50,7 @@ The application helped businesses to collaborate with each other to send
 shared shipments across the country if the routes of both businesses
 match.  
 
-#### Contributions  
+#### Achievements/Tasks
 
 * Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
