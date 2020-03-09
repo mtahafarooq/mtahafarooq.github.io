@@ -9,7 +9,7 @@ In my free time, I love to brush up my problem solving skills, by solving progra
 
 # Experience
 
-### Software Engineer
+### Frontend Developer
 #### EBRYX (August 2019 - PRESENT)
 
 I spend time developing a cross-platform Service Provider mobile application which allows beauticians from different areas to provide services to their clients. It allows the end user to make appointments with the service provider with ease.
@@ -24,7 +24,7 @@ I spend time developing a cross-platform Service Provider mobile application whi
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
 
-### Software Engineer
+### Full Stack Developer
 #### Tradeup (August 2018 - April 2019)
 
 Maintainer / Contributor of an ERP solution made with Spring MVC 5 &
@@ -42,7 +42,7 @@ feature rich and focuses on UI/UX & usability.
 #### Tools & Technologies 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
-### Software Engineer (Intern)
+### Frontend Developer (Intern)
 #### Emerssive Solutions (December 2017 - August 2018)
 
 Maintainer of a logistics application called Vislog developed in Drupal 7.
@@ -62,7 +62,7 @@ PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers 
 <br>  
   
 # Projects
-### Paints CMA
+### Paints CMA/Frontend Developer
 #### April 2019 - June 2019
   
 Developed a CMA for a Paints Enterprise. The application enabled
@@ -70,7 +70,7 @@ business owner to manage application content that was consumed by
 mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
-### CloudCV - EvalAI
+### CloudCV - EvalAI/Frontend Developer
 #### May 2019
   
 I conducted thorough testing & suggested possible improvements, made
