@@ -52,13 +52,12 @@ match.
 
 #### Achievements/Tasks
 
-* Fixed UI/UX related issues.
 * Done extensive testing, identify new issues and fixed them.
 * Familiarize myself with methods that allowed smooth and natural interaction with the system.
-* Contributed new navigation features using Google Maps API.  
+* Contributed new navigation features using Google Maps API to augment the navigation experience for the end user,.  
 
 #### Tools & Technologies 
-PHP | Drupal 7 | Git | JIRA | Scrum | Linux | Debugging using Chrome Developers Tools
+PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools
 <br>  
   
 # Projects
@@ -70,6 +69,9 @@ business owner to manage application content that was consumed by
 mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
+#### Tools & Technologies 
+Angular 7| Express | Node | MYSQL | Sequelize | PM2
+
 ### CloudCV - EvalAI/Frontend Developer
 #### May 2019
   
@@ -79,4 +81,6 @@ open source web application that helps researchers, students and
 data-scientists to create, collaborate and participate in various AI
 challenges organized round the globe.
 
+#### Tools & Technologies 
+Angular 4| Django | Docker
 
