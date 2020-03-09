@@ -16,10 +16,10 @@ I spend time developing a cross-platform Service Provider mobile application whi
 
 #### Achievements/Tasks  
 
-* Contributed to the design of application’s core architecture, and modules such as authentication, profile, scheduling and payments.
-* Integrated payment gateway namely Telr to accept payments through credit/debit cards.
+* Contributed to the application’s core architecture, and modules such as authentication/authorization, profile, scheduling, and payments.
+* Integrated payment gateway called 'Telr' to accept payments through credit/debit cards.
 * Collaborate with other team members to implement new feature development.
-* Following the best development practices in a way of common coding standards to maintain code quality and components reusability.
+* Followed the best development, coding practices and standards to maintain code quality and components reusability.
 
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
@@ -34,10 +34,10 @@ feature rich and focuses on UI/UX & usability.
 
 #### Achievements/Tasks
 
-* Revamped overall UI of project and enhanced the UI/UX to be frictionless.
-* Rewrote frontend for already done feature module namely ‘Warehouse’.
-* Contributed two new feature modules namely ‘Checks’ & ‘Tax Management’ from scratch.
-* Implemented Lazy-Loading technique to give performance boost to the application.
+* Revamped overall UI of project and enhanced the UI/UX to be more intuitive.
+* Refactored frontend for some feature modules to get rid of tech debt.
+* Contributed feature modules i.e. Checks Management, Tax Management.
+* Implemented Lazy Loading strategy to give performance boost in terms of load time.
 
 #### Tools & Technologies 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
