@@ -15,7 +15,7 @@ I spend time developing a cross-platform Service Provider mobile application whi
 #### Achievements/Tasks  
 
 * Assisted in the collection and documentation of users requirements, development of user stories and estimates
-* Collaborated with backend team in constructing and integrating new features which accelerated delivery time by 25%.
+* Liase  between frontend and backend team in constructing and integrating new features which accelerated delivery time by 25%.
 * Followed the best development, coding practices and standards to maintain code quality and components reusability while developing solutions on time and on budget.     
 * Contributed to the application’s core architecture, and modules such as authentication/authorization, profile, scheduling, and payments.
 
