@@ -7,7 +7,7 @@ A versatile frontend developer who loves to combine the art of design with the a
 
 # Achievements & Certificates 
 ### Front-End Web Development with React, HKUST 
-Coursera verified certificate, License [8ZU55S5L6L9C](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)  
+Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)  
 
 ### Server-side Development with NodeJS, Express and MongoDB, HKUST
 Coursera Verified Certificate, License [7KXQR65T37NY](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
