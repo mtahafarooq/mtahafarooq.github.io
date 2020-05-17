@@ -12,6 +12,10 @@ Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/a
 ### Server-side Development with NodeJS, Express and MongoDB, HKUST
 Coursera Verified Certificate, License [7KXQR65T37NY](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
 
+### AWS Fundamentals: Building Serverless Applications
+Coursera Verified Certificate, License [K48NRWFKA6EC](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
+
+
 # Experience
 
 
