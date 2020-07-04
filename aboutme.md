@@ -6,14 +6,23 @@ title: About me
 A passionate front-end developer who loves to turn intuitive designs into robust functional interfaces. I enjoy technology, not a specific stack or language. I spend most of time dabbling with React, React Native, Redux and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. 
 
 # Achievements & Certificates 
-### Front-End Web Development with React, HKUST 
-Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)  
+### Agile with Atlassian Jira, Atlasian
+Coursera Verified Certificate, License [MC36WSY42TWB](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
+
+### Version Control with Git
+Coursera Verified Certificate, License [HYWVK4Q2D2YU](https://www.coursera.org/account/accomplishments/certificate/HYWVK4Q2D2YU)
+
+### Software Processes and Agile Practices
+Coursera Verified Certificate, License [K7YP67Z23QVE](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
+
+### AWS Fundamentals: Building Serverless Applications
+Coursera Verified Certificate, License [K48NRWFKA6EC](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
 
 ### Server-side Development with NodeJS, Express and MongoDB, HKUST
 Coursera Verified Certificate, License [7KXQR65T37NY](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
 
-### AWS Fundamentals: Building Serverless Applications
-Coursera Verified Certificate, License [K48NRWFKA6EC](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
+### Front-End Web Development with React, HKUST 
+Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)  
 
 
 # Experience
