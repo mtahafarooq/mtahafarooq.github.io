@@ -27,9 +27,28 @@ Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/a
 
 # Experience
 
+### Frontend Developer
+#### Arbisoft (January 2021 - Present)
+
+I'm currently contributing to the biggest electric vehicles charging stations network platform in the USA, it's built using React for frontend, Redux for state management and makes heavy use of mapbox to display critical information to stakeholders in a seamless way.
+
+#### Achievements/Tasks  
+
+* Participated in UI redesign that provided appropriate visual aids to the user to increase usability. 
+* Integrated Mapbox to implement project's business logic and developed different custom layers and tilesets from geojson data.
+* Implemented user reach feature using mapbox Isochrone API to show areas that are reachable within a specified amount of time from user location to predict user travel distance visually on map.
+* Identified and implemented crucial code improvements that helped in enhancing system performance and user experience by 10x.     
+* Employed a variety of libraries i-e Styled components, SCSS and Storybook to develop well documented, optimized and reuseable components.
+* Liaise  between frontend and backend team in constructing and integrating new features which helped in meeting project gaols and desired functionalities on time.
+* Added form validations using formik and yup.
+* Performed user testing and troubleshooting prior to live deployment.
+
+#### Tools & Technologies 
+React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma.
+
 
 ### Frontend Developer
-#### EBRYX (August 2019 - PRESENT)
+#### EBRYX (August 2019 - December 2020)
 
 I spend time developing a cross-platform Service Provider mobile application which allows beauticians from different areas to provide services to their clients. It allows the end user to make appointments with the service provider with ease.
 
@@ -37,8 +56,12 @@ I spend time developing a cross-platform Service Provider mobile application whi
 
 * Assisted in the collection and documentation of users requirements, development of user stories and estimates
 * Liaise  between frontend and backend team in constructing and integrating new features which accelerated delivery time by 25%.
-* Followed the best development, coding practices and standards to maintain code quality and components reusability while developing solutions on time and on budget.     
+* Followed the best development, coding practices and standards to maintain code quality and components reusability while developing solutions on time and on budget.
 * Contributed to the application’s core architecture, and modules such as authentication/authorization, profile, scheduling, and payments.
+* Integrated the Checkout Payment Gateway which enabled the user to make payments in a secure way.
+* Performed user testing and troubleshooting prior to live deployment.
+* Packaged and supported the deployments of releases.
+* Presented team's weekly progress to client by giving live demo of the app and hanlded client's feedback.
 
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
