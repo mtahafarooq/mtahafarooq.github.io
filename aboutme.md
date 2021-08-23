@@ -54,14 +54,15 @@ I spend time developing a cross-platform Service Provider mobile application whi
 
 #### Achievements/Tasks  
 
-* Assisted in the collection and documentation of users requirements, development of user stories and estimates
+* Assisted in the collection and documentation of users requirements, development of user stories and estimates.
 * Liaise  between frontend and backend team in constructing and integrating new features which accelerated delivery time by 25%.
 * Followed the best development, coding practices and standards to maintain code quality and components reusability while developing solutions on time and on budget.
 * Contributed to the application’s core architecture, and modules such as authentication/authorization, profile, scheduling, and payments.
 * Integrated the Checkout Payment Gateway which enabled the user to make payments in a secure way.
 * Performed user testing and troubleshooting prior to live deployment.
-* Packaged and supported the deployments of releases.
-* Presented team's weekly progress to client by giving live demo of the app and hanlded client's feedback.
+* Lead team of four developers and improved processes to meet project goals in a more efficient way.
+* Presented team's weekly progress to client by giving live demo of the app and handled client's feedback.
+
 
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
