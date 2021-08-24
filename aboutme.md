@@ -34,12 +34,12 @@ I'm currently contributing to the biggest electric vehicles charging stations ne
 
 #### Achievements/Tasks  
 
-* Participated in UI redesign that provided appropriate visual aids to the user to increase usability. 
-* Integrated Mapbox to implement project's business logic and developed different custom layers and tilesets from geojson data.
+* Participated in complete UI overhaul that provided appropriate visual aids to the user and increased accessibility. 
+* Integrated Mapbox to show critical information to the stakeholder visually on map and developed different custom layers and tilesets from geojson data.
 * Implemented user reach feature using mapbox Isochrone API to show areas that are reachable within a specified amount of time from user location to predict user travel distance visually on map.
-* Identified and implemented crucial code improvements that helped in enhancing system performance and user experience by 10x.     
+* Liaise between frontend and backend team in constructing and integrating new features which helped in meeting project gaols and desired functionalities on time.
+* Identified and implemented crucial code improvements that helped in enhancing system performance and user experience.     
 * Employed a variety of libraries i-e Styled components, SCSS and Storybook to develop well documented, optimized and reuseable components.
-* Liaise  between frontend and backend team in constructing and integrating new features which helped in meeting project gaols and desired functionalities on time.
 * Added form validations using formik and yup.
 * Performed user testing and troubleshooting prior to live deployment.
 
@@ -60,8 +60,8 @@ I spend time developing a cross-platform Service Provider mobile application whi
 * Contributed to the application’s core architecture, and modules such as authentication/authorization, profile, scheduling, and payments.
 * Integrated the Checkout Payment Gateway which enabled the user to make payments in a secure way.
 * Performed user testing and troubleshooting prior to live deployment.
-* Lead team of four developers and improved processes to meet project goals in a more efficient way.
-* Presented team's weekly progress to client by giving live demo of the app and handled client's feedback.
+* Lead team of four developers and presented team’s progress to the stakeholders on weekly basis by giving live demo of the app and handled feedback.
+* Interviewed and trained new associates.
 
 
 #### Tools & Technologies 
