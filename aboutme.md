@@ -34,7 +34,7 @@ I'm currently contributing to the biggest electric vehicles charging stations ne
 
 #### Achievements/Tasks  
 
-* Participated in complete UI overhaul that provided appropriate visual aids to the user and increased accessibility. 
+* Participated in complete UI overhaul that provided appropriate visual aids to the stakeholders and increased accessibility. 
 * Integrated Mapbox to show critical information to the stakeholder visually on map and developed different custom layers and tilesets from geojson data.
 * Implemented user reach feature using mapbox Isochrone API to show areas that are reachable within a specified amount of time from user location to predict user travel distance visually on map.
 * Liaise between frontend and backend team in constructing and integrating new features which helped in meeting project gaols and desired functionalities on time.
