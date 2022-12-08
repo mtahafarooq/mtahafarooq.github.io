@@ -15,7 +15,7 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 * Refactored classic ember components to the latest octane version that helped in reducing technical debt.
 * Architected & implemented Single Sign-on (SSO) using Auth0 which provides a seamless authentication experience for users across different domains.
 * Improved test distribution by replacing redundant e2e tests with integration & unit tests which resulted in faster test suite execution time.
-* Worked with UX/UI team design team & revamped different flows in existing application that improved customer experience. 
+* Worked with UX/UI design team & revamped different flows in existing application that improved customer experience. 
 * Performed intensive code reviews.    
 
 #### Tools & Technologies 
