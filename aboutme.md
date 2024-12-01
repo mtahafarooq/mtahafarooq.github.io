@@ -7,52 +7,66 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 
 # Experience
 
-### Frontend Developer
-#### Zenloop (December 2021 - Present)
+### Senior Frontend Engineer
+#### [Arbio Group GmbH](https://www.arbio.com/) (July 2023 - Present)
 
 #### Achievements/Tasks  
 
-* Refactored classic ember components to the latest octane version that helped in reducing technical debt.
-* Architected & implemented Single Sign-on (SSO) using Auth0 which provides a seamless authentication experience for users across different domains.
-* Improved test distribution by replacing redundant e2e tests with integration & unit tests which resulted in faster test suite execution time.
-* Worked with UX/UI design team & revamped different flows in existing application that improved customer experience. 
-* Performed intensive code reviews.    
+* Lead the frontend development of a web based booking platform from scratch using Next.js, TypeScript, Tailwind CSS, AWS Elastic Beanstalk and GitHub Actions to construct the     frontend infrastructure and streamline deployment processes.
+* Engineered the end-to-end booking flow, encompassing multiple pages such as the search result page, listing details page, personal details page, and payment info page, enabling users to seamlessly reserve apartments directly through the platform
+* Developed in-house payment collection system using Stripe
+* Created smooth check-in and checkout experiences by integrating NUKI door openers, enabling guests to access and manage apartment entry remotely
+* Introduced an Extra Services feature driven by revenue data and identified market gaps, leading to over 1,000+ additional services sold in the quarter and a notable revenue increase
+* Integrated a suite of tools including Hotjar, Google Analytics, Google Tag Manager and Typeform to collect user feedback, monitor application performance, and generate comprehensive reports
+* 
+#### Tools & Technologies 
+NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AWS S3
+
+### Frontend Developer
+#### [Zenloop GmbH](https://www.zenloop.com/en/) (December 2021 - March 2023)
+
+#### Achievements/Tasks  
+
+* Refactored legacy Ember components to the latest Octane version
+* Implemented SSO using Auth0, providing a seamless auth experience
+* Collaborated with the UI/UX design team to revamp key user flows
+* Replaced redundant E2E tests with integration & unit tests, resulting in faster test suite
+* Improved internationalization and localization by integrating translation services and enabling multi-language support, accommodating a diverse global user base
 
 #### Tools & Technologies 
 Ember JS | Ember Data | Qunit | Mirage | Sinon | Figma.
 
 ### Frontend Developer
-#### Arbisoft (January 2021 - November 2021)
+#### [Arbisoft](https://arbisoft.com/) (January 2021 - November 2021)
 
 Maintainer/Contributor of the biggest electric vehicles charging stations network platform in the USA, it's built using React for frontend, Redux for state management and makes heavy use of mapbox to display critical information to stakeholders in a seamless way.
 
 #### Achievements/Tasks  
 
-* Improved accessibility (a11y) through a complete UI overhaul of visual aids system.
-* Developed an EV mileage predicting visualisation system using MapBox Isochrone api's to present areas that are reachable within a specified amount of time from user location to predict user travel distance visually on map.
-* Improved UX by implementing long-polling mechanism to show machine-learning models results which predict charging stations needs in an area.
-* Employed a variety of libraries i-e Styled components, SCSS and Storybook to develop well documented, optimized and reuseable components.
-* Identified and implemented crucial code improvements that helped in enhancing system performance and user experience.     
+* Leveraged libraries such as Styled Components, SCSS, and Storybook
+* Established a robust automated testing strategy using Jest and Cypress
+* Improved UX by implementing a long-polling mechanism in various places
+* Enhanced accessibility (a11y) by conducting a UI overhaul of the visual aids system
+* Created an EV mileage prediction visualization system using Mapbox Isochrone APIs
+* Optimized website performance using advanced techniques like lazy loading, code splitting, and image optimization, achieving faster page load times and an enhanced user experience
 
 #### Tools & Technologies 
 React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma.
 
 
 ### Frontend Developer
-#### EBRYX (August 2019 - December 2020)
+#### [EBRYX](https://www.ebryx.com/) (August 2019 - December 2020)
 
 Maintainer/Contributor of a cross-platform Service Provider mobile application which allows beauticians from different areas to provide services to their clients. It allows the end user to make appointments with the service provider with ease.
 
 #### Achievements/Tasks  
 
-* Assisted in the collection and documentation of users requirements, development of user stories and estimates.
-* Implemented OAuth functionality for Google & Facebook.
-* Improved monitoring using firebase crashlytics.
-* Enabled user payments mechanism by integrating "Checkout" payment gateway in the app.
-* Performed user testing and troubleshooting prior to live deployment.
-* Lead team of four developers and presented team’s progress to the stakeholders on weekly basis by giving live demo of the app and handled feedback.
-* Interviewed and trained new associates.
-
+* Developed MVP for a cross-platform mobile application from scratch using React Native, integrating Redux for efficient state management and Firebase for seamless deployment and release management
+* Developed & integrated OAuth functionality for Google and Facebook authentication
+* Implemented a user payment system by integrating the "Checkout" payment gateway
+* Managed & coordinated weekly app builds and releases, ensuring timely delivery & quality
+* Enhanced app stability & reliability by incorporating Firebase Crashlytics 
+* Assisted in the collection of users requirements, development of user stories & estimates
 
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
