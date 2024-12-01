@@ -3,7 +3,7 @@ layout: page
 title: About me 
 ---
 
-A passionate front-end developer who loves to turn intuitive designs into robust functional interfaces. I enjoy technology, not a specific stack or language. I spend most of time dabbling with React, React Native, Redux and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. 
+A passionate front-end developer who loves to turn intuitive designs into robust functional interfaces. I enjoy technology, not a specific stack or language. I spend most of time dabbling with React, Typescript and other technologies; and sifting through a wide variety of useful information through different sites i.e. [freeCodeCamp](https://www.freecodecamp.org), [Medium](https://medium.com) etc. I’m curious, and I enjoy any task that challenges me to learn something new. I do my best to keep myself up to date with new advancements in my field so that I can meet challenges with tools & techniques well suited to the job at hand. 
 
 # Experience
 
@@ -12,15 +12,16 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 
 #### Achievements/Tasks  
 
-* Lead the frontend development of a web based booking platform from scratch using Next.js, TypeScript, Tailwind CSS, AWS Elastic Beanstalk and GitHub Actions to construct the     frontend infrastructure and streamline deployment processes.
+* Lead the frontend development of a web based booking platform from scratch using Next.js, TypeScript, Tailwind CSS, AWS Elastic Beanstalk and GitHub Actions to construct the     frontend infrastructure and streamline deployment processes
 * Engineered the end-to-end booking flow, encompassing multiple pages such as the search result page, listing details page, personal details page, and payment info page, enabling users to seamlessly reserve apartments directly through the platform
 * Developed in-house payment collection system using Stripe
 * Created smooth check-in and checkout experiences by integrating NUKI door openers, enabling guests to access and manage apartment entry remotely
 * Introduced an Extra Services feature driven by revenue data and identified market gaps, leading to over 1,000+ additional services sold in the quarter and a notable revenue increase
 * Integrated a suite of tools including Hotjar, Google Analytics, Google Tag Manager and Typeform to collect user feedback, monitor application performance, and generate comprehensive reports
-* 
+
+  
 #### Tools & Technologies 
-NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AWS S3
+NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AWS S3 | Figma
 
 ### Frontend Developer
 #### [Zenloop GmbH](https://www.zenloop.com/en/) (December 2021 - March 2023)
@@ -33,8 +34,9 @@ NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AW
 * Replaced redundant E2E tests with integration & unit tests, resulting in faster test suite
 * Improved internationalization and localization by integrating translation services and enabling multi-language support, accommodating a diverse global user base
 
+
 #### Tools & Technologies 
-Ember JS | Ember Data | Qunit | Mirage | Sinon | Figma.
+Ember JS | Ember Data | Qunit | Mirage | Sinon | Figma
 
 ### Frontend Developer
 #### [Arbisoft](https://arbisoft.com/) (January 2021 - November 2021)
@@ -50,8 +52,9 @@ Maintainer/Contributor of the biggest electric vehicles charging stations networ
 * Created an EV mileage prediction visualization system using Mapbox Isochrone APIs
 * Optimized website performance using advanced techniques like lazy loading, code splitting, and image optimization, achieving faster page load times and an enhanced user experience
 
+
 #### Tools & Technologies 
-React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma.
+React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma
 
 
 ### Frontend Developer
@@ -68,6 +71,7 @@ Maintainer/Contributor of a cross-platform Service Provider mobile application w
 * Enhanced app stability & reliability by incorporating Firebase Crashlytics 
 * Assisted in the collection of users requirements, development of user stories & estimates
 
+
 #### Tools & Technologies 
 React | React Native |Redux | AWS| NodeJS | Sequelize
 
@@ -81,11 +85,12 @@ feature rich and focuses on UI/UX & usability.
 
 #### Achievements/Tasks
 
-* Revamped overall UI and simplified an overly-complex interface while preserving all functionalities.
-* Collaborated with other team members to develop a fully automated CI/CD pipeline resulting in reduced deployment time.
-* Implemented Lazy Loading strategy to decrease time to first paint.
-* Packaged and supported the deployments of releases.
-* Contributed new feature modules for Inventory and Checks management.
+* Revamped overall UI and simplified an overly-complex interface while preserving all functionalities
+* Collaborated with other team members to develop a fully automated CI/CD pipeline resulting in reduced deployment time
+* Implemented Lazy Loading strategy to decrease time to first paint
+* Packaged and supported the deployments of releases
+* Contributed new feature modules for Inventory and Checks management
+
 
 #### Tools & Technologies 
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
@@ -100,16 +105,17 @@ match.
 
 #### Achievements/Tasks
 
-* Assisted senior Frontend Developers in designing application and gained skills in aligning designs with client requirements.
-* Learned to interact with clients, present designs and handle feedback at work.
-* Helped senior developers in debugging their codes to improve website performance and user experience.
-* Contributed new navigation features using Google Maps API to augment the navigation experience for the end user,.  
+* Assisted senior Frontend Developers in designing application and gained skills in aligning designs with client requirements
+* Learned to interact with clients, present designs and handle feedback at work
+* Helped senior developers in debugging their codes to improve website performance and user experience
+* Contributed new navigation features using Google Maps API to augment the navigation experience for the end user
+
 
 #### Tools & Technologies 
 PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools
 <br>  
   
- # Achievements & Certificates 
+#Achievements & Certificates 
 ### Agile with Atlassian Jira, Atlasian
 Coursera Verified Certificate, License [MC36WSY42TWB](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
 
