@@ -19,8 +19,8 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 * Introduced an Extra Services feature driven by revenue data and identified market gaps, leading to over 1,000+ additional services sold in the quarter and a notable revenue increase
 * Integrated a suite of tools including Hotjar, Google Analytics, Google Tag Manager and Typeform to collect user feedback, monitor application performance, and generate comprehensive reports
 
-  
-#### Tools & Technologies 
+
+### Tools & Technologies 
 NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AWS S3 | Figma
 
 ### Frontend Developer
@@ -112,28 +112,24 @@ match.
 
 
 #### Tools & Technologies 
-PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools
-<br>  
+PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools 
   
-#Achievements & Certificates 
-### Agile with Atlassian Jira, Atlasian
-Coursera Verified Certificate, License [MC36WSY42TWB](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
+# Achievements & Certificates 
 
-### Version Control with Git
-Coursera Verified Certificate, License [HYWVK4Q2D2YU](https://www.coursera.org/account/accomplishments/certificate/HYWVK4Q2D2YU)
+### [Agile with Atlassian Jira, Atlasian](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
 
-### Software Processes and Agile Practices
-Coursera Verified Certificate, License [K7YP67Z23QVE](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
+### [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/HYWVK4Q2D2YU)
 
-### AWS Fundamentals: Building Serverless Applications
-Coursera Verified Certificate, License [K48NRWFKA6EC](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
+### [Software Processes and Agile Practices](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
 
-### Server-side Development with NodeJS, Express and MongoDB, HKUST
-Coursera Verified Certificate, License [7KXQR65T37NY](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
 
-### Front-End Web Development with React, HKUST 
-Coursera Verified Certificate, License [8ZU55S5L6L9C](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)  
-<br>
+### [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
+
+### [Server-side Development with NodeJS, Express and MongoDB, HKUST](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
+
+
+### [Front-End Web Development with React, HKUST](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)
+
 # Projects
 ### Paints CMA
 #### April 2019 - June 2019
