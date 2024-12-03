@@ -23,7 +23,6 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 
 
 #### Tools & Technologies 
-
 NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | Figma
 
 ### Frontend Developer
@@ -41,7 +40,6 @@ Zenloop is an integrated experience management platform based on the Net Promote
 
 
 #### Tools & Technologies
-
 Ember JS | Ember Data | Qunit | Mirage | Sinon | Figma
 
 ### Frontend Developer
@@ -60,7 +58,6 @@ Maintainer/Contributor of the biggest electric vehicles charging stations networ
 
 
 #### Tools & Technologies
-
 React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma
 
 
@@ -80,7 +77,6 @@ Maintainer/Contributor of a cross-platform Service Provider mobile application w
 
 
 #### Tools & Technologies
-
 React | React Native |Redux | AWS| NodeJS | Sequelize
 
 ### Full Stack Developer
@@ -92,7 +88,6 @@ in an efficient and hassle-free way by providing an interface that’s
 feature rich and focuses on UI/UX & usability.
 
 #### Achievements/Tasks
-
 * Revamped overall UI and simplified an overly-complex interface while preserving all functionalities
 * Collaborated with other team members to develop a fully automated CI/CD pipeline resulting in reduced deployment time
 * Implemented Lazy Loading strategy to decrease time to first paint
@@ -101,7 +96,6 @@ feature rich and focuses on UI/UX & usability.
 
 
 #### Tools & Technologies
-
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
 ### Frontend Developer (Intern)
@@ -113,7 +107,6 @@ shared shipments across the country if the routes of both businesses
 match.  
 
 #### Achievements/Tasks
-
 * Assisted senior Frontend Developers in designing application and gained skills in aligning designs with client requirements
 * Learned to interact with clients, present designs and handle feedback at work
 * Helped senior developers in debugging their codes to improve website performance and user experience
@@ -121,7 +114,6 @@ match.
 
 
 #### Tools & Technologies
-
 PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools 
   
 # Achievements & Certificates 
@@ -143,7 +135,6 @@ mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
 #### Tools & Technologies
-
 Angular 7 | Express | Node | MYSQL | Sequelize | PM2
 
 ### CloudCV - EvalAI
@@ -156,7 +147,6 @@ data-scientists to create, collaborate and participate in various AI
 challenges organized round the globe.
 
 #### Tools & Technologies
-
 Angular 4 | Django | Docker
 
 ### ForensicsDB
@@ -171,5 +161,4 @@ nature of the crime and assigns relevant forensic teams accordingly.
 
 
 #### Tools & Technologies
-
 React Native | Spring MVC| Typescript | Google Maps.
