@@ -12,16 +12,18 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 
 #### Achievements/Tasks  
 
-* Lead the frontend development of a web based booking platform from scratch using Next.js, TypeScript, Tailwind CSS, AWS Elastic Beanstalk and GitHub Actions to construct the     frontend infrastructure and streamline deployment processes
-* Engineered the end-to-end booking flow, encompassing multiple pages such as the search result page, listing details page, personal details page, and payment info page, enabling users to seamlessly reserve apartments directly through the platform
+* Spearheaded the frontend development of a web based booking platform from scratch using Next.js, TypeScript and Tailwind CSS 
+* Leveraged AWS Elastic Beanstalk and GitHub Actions to construct the frontend infrastructure and streamline deployment processes
+* Worked alongside product manager, designer, and other engineers to transform creative concepts into refined digital experiences at an agile (2 week) sprints
+* Lead company-wide initiatives such as creating documentation for best practices, establishing a standard checklist for developers, and facilitating knowledge shares
 * Developed in-house payment collection system using Stripe
 * Created smooth check-in and checkout experiences by integrating NUKI door openers, enabling guests to access and manage apartment entry remotely
 * Introduced an Extra Services feature driven by revenue data and identified market gaps, leading to over 1,000+ additional services sold in the quarter and a notable revenue increase
 * Integrated a suite of tools including Hotjar, Google Analytics, Google Tag Manager and Typeform to collect user feedback, monitor application performance, and generate comprehensive reports
 
 
-### Tools & Technologies 
-NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | AWS S3 | Figma
+#### Tools & Technologies 
+NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | Figma
 
 ### Frontend Developer
 #### [Zenloop GmbH](https://www.zenloop.com/en/) (December 2021 - March 2023)
@@ -116,16 +118,11 @@ PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools
   
 # Achievements & Certificates 
 
-### [Agile with Atlassian Jira, Atlasian](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
-
-### [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/HYWVK4Q2D2YU)
-
-### [Software Processes and Agile Practices](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
-
-
-### [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
-
-### [Server-side Development with NodeJS, Express and MongoDB, HKUST](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
+#### [Agile with Atlassian Jira, Atlasian](https://www.coursera.org/account/accomplishments/certificate/MC36WSY42TWB)
+#### [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/HYWVK4Q2D2YU)
+#### [Software Processes and Agile Practices](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
+#### [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
+#### [Server-side Development with NodeJS, Express and MongoDB, HKUST](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
 
 
 ### [Front-End Web Development with React, HKUST](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)
@@ -140,7 +137,7 @@ mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
 #### Tools & Technologies 
-Angular 7| Express | Node | MYSQL | Sequelize | PM2
+Angular 7 | Express | Node | MYSQL | Sequelize | PM2
 
 ### CloudCV - EvalAI
 #### May 2019
@@ -152,7 +149,7 @@ data-scientists to create, collaborate and participate in various AI
 challenges organized round the globe.
 
 #### Tools & Technologies 
-Angular 4| Django | Docker
+Angular 4 | Django | Docker
 
 ### ForensicsDB
 #### February 2021 - June 2021
