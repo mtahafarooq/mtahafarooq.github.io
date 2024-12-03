@@ -23,10 +23,13 @@ A passionate front-end developer who loves to turn intuitive designs into robust
 
 
 #### Tools & Technologies 
+
 NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | Figma
 
 ### Frontend Developer
 #### [Zenloop GmbH](https://www.zenloop.com/en/) (December 2021 - March 2023)
+
+Zenloop is an integrated experience management platform based on the Net Promoter Score. The SaaS solution automatically collects customer feedback through various channels along the entire customer journey, analyzes & clusters it with the help of artificial intelligence & derives customized & personalized measures to retain satisfied customers & win back dissatisfied customers.
 
 #### Achievements/Tasks  
 
@@ -37,7 +40,8 @@ NextJS | Typescript | Tailwind CSS | AWS Elastic Beanstalk | Github Actions | Fi
 * Improved internationalization and localization by integrating translation services and enabling multi-language support, accommodating a diverse global user base
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 Ember JS | Ember Data | Qunit | Mirage | Sinon | Figma
 
 ### Frontend Developer
@@ -55,7 +59,8 @@ Maintainer/Contributor of the biggest electric vehicles charging stations networ
 * Optimized website performance using advanced techniques like lazy loading, code splitting, and image optimization, achieving faster page load times and an enhanced user experience
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 React | Mapbox |Redux Toolkit | Styled Components | SCSS | Storybook | Figma
 
 
@@ -74,7 +79,8 @@ Maintainer/Contributor of a cross-platform Service Provider mobile application w
 * Assisted in the collection of users requirements, development of user stories & estimates
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 React | React Native |Redux | AWS| NodeJS | Sequelize
 
 ### Full Stack Developer
@@ -94,7 +100,8 @@ feature rich and focuses on UI/UX & usability.
 * Contributed new feature modules for Inventory and Checks management
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 Angular | Spring MVC | Hibernate | Visual Studio Code | Intellij IDEA | Basecamp | CI/CD
 
 ### Frontend Developer (Intern)
@@ -113,7 +120,8 @@ match.
 * Contributed new navigation features using Google Maps API to augment the navigation experience for the end user
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools 
   
 # Achievements & Certificates 
@@ -123,9 +131,7 @@ PHP | Drupal 7 | Vagrant | MYSQL | Debugging using Chrome Developers Tools
 #### [Software Processes and Agile Practices](https://www.coursera.org/account/accomplishments/certificate/K7YP67Z23QVE)
 #### [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/certificate/K48NRWFKA6EC)
 #### [Server-side Development with NodeJS, Express and MongoDB, HKUST](https://www.coursera.org/account/accomplishments/certificate/7KXQR65T37NY)
-
-
-### [Front-End Web Development with React, HKUST](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)
+#### [Front-End Web Development with React, HKUST](https://www.coursera.org/account/accomplishments/certificate/8ZU55S5L6L9C)
 
 # Projects
 ### Paints CMA
@@ -136,7 +142,8 @@ business owner to manage application content that was consumed by
 mobile application through API’s. Contributed several modules relating
 to user & products management.  
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 Angular 7 | Express | Node | MYSQL | Sequelize | PM2
 
 ### CloudCV - EvalAI
@@ -148,7 +155,8 @@ open source web application that helps researchers, students and
 data-scientists to create, collaborate and participate in various AI
 challenges organized round the globe.
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 Angular 4 | Django | Docker
 
 ### ForensicsDB
@@ -162,5 +170,6 @@ photos, GPS coordinates among other data, the prosecutor then acts upon the prov
 nature of the crime and assigns relevant forensic teams accordingly.
 
 
-#### Tools & Technologies 
+#### Tools & Technologies
+
 React Native | Spring MVC| Typescript | Google Maps.
